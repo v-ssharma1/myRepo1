@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="1217" started-at="2018-04-14T20:23:58Z" finished-at="2018-04-14T20:23:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="1217" started-at="2018-04-14T20:23:58Z" finished-at="2018-04-14T20:23:59Z">
+      <class name="APITesting.com.org.api.WheatherRequests">
+        <test-method status="PASS" signature="Test_01()[pri:0, instance:APITesting.com.org.api.WheatherRequests@26f67b76]" name="Test_01" duration-ms="1201" started-at="2018-04-14T20:23:58Z" finished-at="2018-04-14T20:23:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test_01 -->
+      </class> <!-- APITesting.com.org.api.WheatherRequests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
