@@ -1,0 +1,91 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "title": "Post1555",
+      "author": "Bharathi Sharma",
+      "price": 14.22,
+      "Location": {
+        "country_id": 12,
+        "state": "UP",
+        "city": "Meerut",
+        "country_name": "India"
+      }
+    },
+    {
+      "id": 5,
+      "title": "My Name is Saurabh",
+      "author": "H.C Verma",
+      "price": 12.22,
+      "Location": {
+        "country_id": 13,
+        "state": "MH",
+        "city": "Pune",
+        "country_name": "India"
+      }
+    },
+    {
+      "id": 8,
+      "title": "My Name is Shriya",
+      "author": "AnotherComment",
+      "price": 7.22,
+      "Location": {
+        "country_id": 18,
+        "state": "Captown",
+        "city": "CA",
+        "country_name": "SouthAfrica"
+      }
+    },
+    {
+      "id": 1,
+      "title": "My Name is Saurabh",
+      "author": "AnotherComment",
+      "price": 7.22,
+      "Location": {
+        "country_id": 21,
+        "state": "NSW",
+        "city": "Sydney",
+        "country_name": "Australia"
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "postId": 3
+    },
+    {
+      "id": 4,
+      "postId": 4
+    },
+    {
+      "id": 5,
+      "postId": 5
+    },
+    {
+      "id": 9,
+      "postId": 9
+    }
+  ],
+  "profile": {
+    "name": "Saurabh Sharma"
+  },
+  "details": {
+    "age": 29,
+    "address": {
+      "streetAddress": "142, Brahampuri",
+      "city": "Meerut",
+      "postalCode": "250002"
+    },
+    "phoneNumbers": [
+      {
+        "type": "iPhone10",
+        "number": "311-975-3902"
+      },
+      {
+        "type": "iPhone101",
+        "number": "311-975-39021"
+      }
+    ]
+  }
+}
